@@ -8,6 +8,7 @@ Hellblau
 Dunkelblau
 Gelb
 Magenta
+Cyan
 
 Sind alles tolle Farben.
 
